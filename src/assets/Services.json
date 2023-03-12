@@ -1,0 +1,93 @@
+{
+    "services" : [
+        {
+            "category" : "Manicure",
+            "description" : "'Life is no brief candle,, It is a sort of splendid Torch which I have got a hold of for the moment, and I want to make it burn as brightly as possible' Geoge Bernard Shaw",
+            "services" : [
+                {
+                    "item" : "Natural Manicure",
+                    "description" : "Want to grow nails? Maintain your natural nails every week or two",
+                    "price" : "$20"
+                },
+                {
+                    "item" : "Hydrating Spa Manicure",
+                    "description" : "",
+                    "price" : "$25"
+                },
+                {
+                    "item" : "Gel Manicure",
+                    "description" : "",
+                    "price" : "$40"
+                }
+            ]
+        },
+        {
+            "category" : "Pedicure",
+            "description" : "",
+            "services" : [
+                {
+                    "item" : "Natural Pedicure",
+                    "description" : "30 Mins",
+                    "price" : "$35"
+                },
+                {
+                    "item" : "Signature Pedicure",
+                    "description" : "",
+                    "price" : "$45"
+                },
+                {
+                    "item" : "Deluxe Pedicure",
+                    "description" : "",
+                    "price" : "$50"
+                },
+                {
+                    "item" : "Gel Pedicure",
+                    "description" : "",
+                    "price" : "$50"
+                }
+            ]
+        },
+        {
+            "category" : "Dip Powder",
+            "description" : "",
+            "services" : [
+                {
+                    "item" : "Dip",
+                    "description" : "",
+                    "price" : "$43 & up"
+                },
+                {
+                    "item" : "Dip Ombre",
+                    "description" : "",
+                    "price" : "$50 & up"
+                },
+                {
+                    "item" : "Dip French",
+                    "description" : "",
+                    "price" : "$50 & up"
+                }
+            ]
+        },
+        {
+            "category" : "Artificid Nails",
+            "description" : "",
+            "services" : [
+                {
+                    "item" : "Acrylic Tips",
+                    "description" : "",
+                    "price" : "Full ($30) / Refill ($20 & up)"
+                },
+                {
+                    "item" : "Acrylic Tips Gel",
+                    "description" : "",
+                    "price" : "Full ($40) / Refill ($35 & up)"
+                },
+                {
+                    "item" : "Acrylic Ombre",
+                    "description" : "",
+                    "price" : "Full ($55) / Refill ($40 & up)"
+                }
+            ]
+        }
+    ]
+}
